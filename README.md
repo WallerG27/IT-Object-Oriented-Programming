@@ -1,5 +1,5 @@
 Table on Context:
-#This is to save my old GitHub Python projects
+#This is to save my old Object Oriented Python projects
 
 #Chapter 1: Procedural Python Examples
 #Account (Basic account object storing balance information)
